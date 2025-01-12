@@ -1,6 +1,6 @@
 # LSTM-Based Traffic Prediction and Multimodal Synthetic Data Generation
 
-### 👋 Welcome to the Project Repository of Group 18!
+### 👋 Welcome to the Project Repository
 This repository showcases our work for **CS6140 Machine Learning** at **Northeastern University**. Our project dives into real-time traffic prediction and synthetic data generation using advanced models like **LSTMs**, **TimeGAN**, and more.
 
 ---
